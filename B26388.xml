@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>School-lavves. Or, Qui mihi in English. By J. M.</title>
+            <author>J. M.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26388</idno><idno type="EEBO-CITATION">99828721</idno>
+  <idno type="VID">207584</idno>
+  <idno type="EEBO-PROQUEST">2240876788</idno>
+  
+            <idno type="STC">Wing M47A</idno>
+            <idno type="PROQUEST">99828721</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828721e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26388)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207584)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1916:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>School-lavves. Or, Qui mihi in English. By J. M.</title>
+                  <author>J. M.</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed MDCL. [1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A³.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English poetry --  Early works to 1800.</term>
+               <term type="topical_term">Education --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207584:1"/>
+            <p>School-Lavves. OR, <hi>QƲI MIHI</hi> IN ENGLISH.</p>
+            <p>By <hi>J. M.</hi>
+            </p>
+            <q>Train up a child in the way he should goe, and when he i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> old, he will not depart from it,
+<bibl>
+                  <hi>Prov. 22.6.</hi>
+               </bibl>
+            </q>
+            <p>LONDON, Printed MDCL.</p>
+            <pb facs="tcp:207584:2"/>
+            <pb facs="tcp:207584:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:207584:3"/>
+            <pb facs="tcp:207584:3"/>
+            <head>
+               <hi>QƲI MIHI</hi> IN English.</head>
+            <l>
+               <seg rend="decorInit">W</seg>HO so my Scholer do'st desire to be,</l>
+            <l>Observe these Laws, and I do welcome thee.</l>
+            <l>Thou shalt get up betimes, soft sleep forsake,</l>
+            <l>Humble thy self, and daily prayer make.</l>
+            <l>Thy hands must washed be, also thy face,</l>
+            <l>Thy garments trim, and head comb'd in first place.</l>
+            <l>Thou must not truant, when our School doth call;</l>
+            <l>Absence in health, knows no excuse at all.</l>
+            <l>Greet me thy Master, as thou passest by,</l>
+            <l>And all thy fellow-students orderly.</l>
+            <l>Sit where I bid thee, and not thence depart,</l>
+            <l>Till I remove thee for thy just desert:</l>
+            <l>For as thou learnest, so must be thy place,</l>
+            <l>Thy good desert shall never want due grace.</l>
+            <l>Pen, ink, and paper, books of each degree,</l>
+            <pb facs="tcp:207584:4"/>
+            <l>See these thy weapons in due posture be.</l>
+            <l>What I thee dictate, thou shalt fairly write.</l>
+            <l>Thou shalt not blur, nor blot that I indite.</l>
+            <l>To papers loose and torn do not commit</l>
+            <l>Thy exercises, which for books are fit.</l>
+            <l>Conn 'ore thy lesson once and once agen.</l>
+            <l>Ask when thou doubt'st now these, now other men.</l>
+            <l>Who doubts, and asketh oft, pleaseth me best,</l>
+            <l>The most conceited sure conceiveth least.</l>
+            <l>Endeavour now my child, mark what I say,</l>
+            <l>So shall it be thine own another day.</l>
+            <l>Attend, I say, for what will 't me avail,</l>
+            <l>To teach thee oft, if thou to learn shalt fail?</l>
+            <l>Thou must not count that hard, in time shall be,</l>
+            <l>As now thy paines, so thy great dignity.</l>
+            <l>The earth yields not increase of flow'r or grain,</l>
+            <l>Vnless manured well by painfull swain:</l>
+            <l>So without exercise thy time is lost,</l>
+            <l>Thy wit decaies, and all thy hopes are crosst.</l>
+            <l>Now lest thy twatling should my pat'ence wrong,</l>
+            <l>I give thee rules and precepts for thy tongue.</l>
+            <l>Do'st get thy less'n, let not thy voice be stout.</l>
+            <l>Do'st it rehearse to me, then speak thou out:</l>
+            <l>And when thou say'st, be sure th' hast conn'd it well</l>
+            <l>'Tis very good without book to excell:</l>
+            <l>Let none thee prompt, for that comick fash'on,</l>
+            <l>Hath harmed much the learned nation.</l>
+            <l>If ought I ask thee, answer in such sort,</l>
+            <l>I may approve it well, and praise thee for't.</l>
+            <l>Thy tongue must not be glibb, nor yet too flow,</l>
+            <pb facs="tcp:207584:4"/>
+            <l>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ledg<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mean most vert'ous is, as all do know:</l>
+            <l>And when thou speak'st, see thou speak'st properly.</l>
+            <l>Both uncouth words and phrase shun warily.</l>
+            <l>Moreover if thy fellowes ought thee ask,</l>
+            <l>Instruct them right, and help me in my task.</l>
+            <l>Who so does others teach, unlearn'd though he,</l>
+            <l>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ledg<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n time not long shall better learned be.</l>
+            <l>Beware of smatt'rers, follow not their race,</l>
+            <l>The Romane language who do much disgrace:</l>
+            <l>Of whom there's none so foppish or so ball'd,</l>
+            <l>That of the simple is not Master call'd.</l>
+            <l>If thou the Grammer rules would'st rightly know,</l>
+            <l>And in the same most elegantly flow;</l>
+            <l>Addict thy self to those both grave and old,</l>
+            <l>Whom gowned men do classick Authours hold.</l>
+            <l>Now take thy Virgil, Terence now desire;</l>
+            <l>Bove all be sure, thy Tullie thee inspire.</l>
+            <l>These who reject, do nothing else but dreame,</l>
+            <l>And in much darkness strive against the stream.</l>
+            <l>There are some boies, do walk in no good way,</l>
+            <l>But triftle out their time both night and day.</l>
+            <l>There are, that joy to smite with foot and hand,</l>
+            <l>And any way to vex in fear not stand.</l>
+            <l>One brags his birth, and boasts his progenie,</l>
+            <l>And twitteth those are not of high degree:</l>
+            <l>But thou, my child, take heed thou do'st not so,</l>
+            <l>Lest thou thereby do'st purchase mickle wo.</l>
+            <l>Thou shalt not chop and change, nor buy, nor sell,</l>
+            <l>To gain by others loss is not so well.</l>
+            <l>The root of evill ('tis monie so I deem,)</l>
+            <pb facs="tcp:207584:5"/>
+            <l>Let be; money a child doth ill beseem.</l>
+            <l>Hooting, wrangling, scoffes, lies, and ribaldrie,</l>
+            <l>Let me not hear, nor any fighting see.</l>
+            <l>In no wise utter that is vild or wrong,</l>
+            <l>For weal and wo dependeth on the tongue.</l>
+            <l>Tremble to curse, or sweare, Oh, do not swear:</l>
+            <l>Why should'st thou him blaspheme, thou ought'st r<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vere?</l>
+            <l>Lastly keep safe thy books, and ev'ry thing,</l>
+            <l>And as thou go'st and com'st, them with thee bring</l>
+            <l>Shun all occasion, that may work thee shame,</l>
+            <l>Chiefely for which I must thee also blame.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207584:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
